@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jgranthamburton/](https://www.linkedin.com/in/jgranthamburton/)
 
-- ⚡ Fun fact **I have heterochromia!**
+- ⚡ Fun fact **I have heterochromia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
