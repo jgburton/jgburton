@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamie Grantham-Burton</h1>
-<h3 align="center">A passionate frontend developer from the United Kingdom, now based in Melbourne Australia</h3>
+<h3 align="center">A passionate front-end software engineer from the United Kingdom, now based in Melbourne Australia</h3>
 
-- 🌱 I’m currently learning **NextJS** & **TailwindCSS**
+- 🌱 I’m currently learning **NextJS** & **TailwindCSS** while building an [Airbnb clone](https://github.com/jgburton/AirbnbClone)
 
 - 👨‍💻 Select projects are available at [https://www.jamiegranthamburton.com/](https://www.jamiegranthamburton.com/)
 
