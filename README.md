@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jamie Grantham-Burton</h1>
-<h3 align="center">A passionate frontend developer from the United Kingdom</h3>
+<h3 align="center">A passionate frontend developer from the United Kingdom, now based in Melbourne Australia</h3>
 
-- 🌱 I’m currently learning **NextJS,**
+- 🌱 I’m currently learning **NextJS** & **TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://www.jamiegranthamburton.com/](https://www.jamiegranthamburton.com/)
+- 👨‍💻 Select projects are available at [https://www.jamiegranthamburton.com/](https://www.jamiegranthamburton.com/)
 
 - 📫 How to reach me **jgranthamburton@gmail.com**
 
