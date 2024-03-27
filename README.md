@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jamie Grantham-Burton</h1>
-<h3 align="left">A passionate software engineer (front-end) from the United Kingdom, now based in Melbourne Australia</h3>
+<h3 align="left">A passionate front-end software engineer from the United Kingdom, now based in Melbourne Australia</h3>
 
 - 🌱 I’m currently learning **NextJS** & **TailwindCSS** while building an [Airbnb clone](https://github.com/jgburton/AirbnbClone)
 
